@@ -1,4 +1,4 @@
-#jDeploy Demos
+# jDeploy Demos
 
 This repository contains a couple of bare-bones demo projects that have been deployed to [npm](https://www.npmjs.com) using [jDeploy](https://www.npmjs.com/package/jdeploy).
 
